@@ -113,3 +113,9 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+.GPS {
+    height:50px;                   /* text area height */
+    width:225px;                   /* text area width */
+    text-align:center;
+}
