@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>PhoneGapTests</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Una aplicacion para testear y evaluar la funcionalidad de PhoneGap 
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://www.santiagolombardi.com.ar" email="santiago.lombardi@gmail.com">
+        Santiago Lombardi
     </author>
 
     <!--
